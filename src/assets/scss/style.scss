@@ -1,0 +1,8 @@
+@use "./partial/variables" as *;
+
+* {
+  font-family: "Ubuntu", sans-serif;
+}
+*::-webkit-scrollbar {
+  display: none;
+}
